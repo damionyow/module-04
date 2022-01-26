@@ -1,18 +1,4 @@
-
-#header {
-  font-family: 'JustLettersMedium';
-}
-  
-#feature {
- background-color: #8CC63E;
- background-image: url("...");
- background-size:contain;
- background-position: right;
- background-repeat:no-repeat;
-}
-
-<style type="text/css">
-			* {
+body {
 				font-family: Arial, Verdana, sans-serif;
 				color: #665544;
 				text-align: center;}
@@ -39,4 +25,15 @@
 				height: 10em;
 				margin-bottom: 1em;
 				background-color: #efefef;}
-		</style>
+		
+#header {
+  font-family: 'JustLettersMedium';
+}
+  
+#feature {
+ background-color: #8CC63E;
+ background-image: url("...");
+ background-size:contain;
+ background-position: right;
+ background-repeat:no-repeat;
+}
