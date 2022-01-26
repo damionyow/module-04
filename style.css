@@ -1,12 +1,25 @@
 body {
 background-image:url("https://getwallpapers.com/wallpaper/full/4/e/7/411200.jpg");
 }
-		
+
+.article column1 {
+	background-color:blue;
+}	
+
+.article column2 {
+	background-color:gold;
+}
+
+.article column3 {
+	background-color:gray;
+}
+
 #header {
   font-family: 'JustLettersMedium';
 	background-color:cyan;
 }
   
+
 #feature {
  background-color:darkblue;
  background-image: url("https://greensock.com/wp-content/uploads/2014/04/animate.png");
