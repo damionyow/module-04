@@ -4,10 +4,11 @@ background-image:url("https://wallpapertag.com/wallpaper/full/0/e/b/474839-beaut
 		
 #header {
   font-family: 'JustLettersMedium';
+	background-color:cyan;
 }
   
 #feature {
- background-color: #8CC63E;
+ background-color:darkblue;
  background-image: url("https://greensock.com/wp-content/uploads/2014/04/animate.png");
  background-size:contain;
  background-position: right;
